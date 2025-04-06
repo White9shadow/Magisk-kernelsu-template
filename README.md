@@ -1,5 +1,6 @@
 # Magisk-kernelsu-template
 
+![Magisk-kernelsu-template](/thumb/thumb.png)
 
 ## Magisk & KernelSU Module Template Builder
 

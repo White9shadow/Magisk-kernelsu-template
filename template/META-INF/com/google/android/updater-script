@@ -1,0 +1,3 @@
+ui_print("=== Installing Godspeed Mode v3x9 ===");
+run_program("/sbin/sh", "/customize.sh");
+ui_print("Done!");
